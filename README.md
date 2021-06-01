@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working as a Software Engineering Immersive Resident at Hack Reactor
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning as much as I can to master the art of creating full-stack web apps!
 - 📫 How to reach me: email: dylanreid7@gmail.com  linkedIn: https://www.linkedin.com/in/dylan-reid/
+- ⚡ Fun fact: I am a semi-professional racquetball player and created a podcast about the sport: https://anchor.fm/racauetballshow 😄
 
