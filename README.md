@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Dylan 👋
 
 <!--
 **dylanreid7/dylanreid7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working as a Software Engineering Immersive Resident at Hack Reactor
+- 🌱 I’m currently learning 
+- 📫 How to reach me: email: dylanreid7@gmail.com  linkedIn: https://www.linkedin.com/in/dylan-reid/
+
