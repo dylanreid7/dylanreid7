@@ -17,8 +17,52 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a Software Engineering Immersive Resident at Hack Reactor
 - 🌱 I’m learning as much as I can to master the art of creating full-stack web apps!
-- 📫 How to reach me: 
-     - email: dylanreid7@gmail.com  
+- 📫 How to reach me:
+     - email: dylanreid7@gmail.com
      - linkedin: https://www.linkedin.com/in/dylan-reid/
 - ⚡ Fun fact: I am a semi-professional racquetball player and created a podcast about the sport: https://anchor.fm/racauetballshow 😄
+
+Technologies
+<table>
+  <tbody>
+    <tr>
+      <th>Front End</th>
+      <td>
+        <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+        <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+        <img alt="Material-UI" src="https://img.shields.io/badge/-Material--UI-%230081CB?&style=for-the-badge&logo=material-ui&logoColor=white" />
+        <img alt="jQuery" src="https://img.shields.io/badge/jquery%20-%23323330.svg?&style=for-the-badge&logo=jquery&logoColor=%0769AD">
+        <img alt="HTML" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+        <img alt="CSS" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <th>Back End and Database</th>
+      <td>
+        <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?&style=for-the-badge"/>
+        <img alt="Express.js" src="https://img.shields.io/badge/nodejs%20-%23323330.svg?&style=for-the-badge&logo=nodejs&logoColor=3c873a"/>
+        <img alt="MongoDB" src="https://img.shields.io/badge/mongodb%20-%23323330.svg?&style=for-the-badge&logo=mongodb&logoColor=%4DB33D"/>
+        <img alt="MySQL" src="https://img.shields.io/badge/mysql%20-%23323330.svg?&style=for-the-badge&logo=mysql&logoColor=00758F"/>
+        <img alt="FireBase" src="https://img.shields.io/badge/firebase%20-%23323330.svg?&style=for-the-badge&logo=firebase&logoColor=FFA611"/>
+      </td>
+    </tr>
+    <tr>
+      <th>Utilities</th>
+      <td>
+        <img alt="Webpack" src="https://img.shields.io/badge/webpack%20-%2320232a.svg?&style=for-the-badge&logo=webpack&logoColor=%2361DAFB" />
+        <img alt="Babel" src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black" />
+        <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red" />
+        <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+        <img alt="Figma" src="https://img.shields.io/badge/figma%20-%23323330.svg?&style=for-the-badge&logo=figma&logoColor=b67148" />
+        <img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?&style=for-the-badge&logo=Trello&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <th>Deployment</th>
+      <td>
+        <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
