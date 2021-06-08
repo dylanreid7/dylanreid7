@@ -39,8 +39,8 @@ Technologies
     <tr>
       <th>Back End and Database</th>
       <td>
-        <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?&style=for-the-badge"/>
-        <img alt="Express.js" src="https://img.shields.io/badge/nodejs%20-%23323330.svg?&style=for-the-badge&logo=nodejs&logoColor=3c873a"/>
+        <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+        <img alt="Node.js" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
         <img alt="MongoDB" src="https://img.shields.io/badge/mongodb%20-%23323330.svg?&style=for-the-badge&logo=mongodb&logoColor=%4DB33D"/>
         <img alt="MySQL" src="https://img.shields.io/badge/mysql%20-%23323330.svg?&style=for-the-badge&logo=mysql&logoColor=00758F"/>
         <img alt="FireBase" src="https://img.shields.io/badge/firebase%20-%23323330.svg?&style=for-the-badge&logo=firebase&logoColor=FFA611"/>
@@ -66,3 +66,5 @@ Technologies
   </tbody>
 </table>
 
+
+[![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylanreid7&theme=solarized-light&show_icons=true)](https://github.com/dylanreid7/github-readme-stats)
