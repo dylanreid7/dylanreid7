@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working as a Software Engineering Immersive Resident at Hack Reactor
-- 🌱 I’m learning as much as I can to master the art of creating full-stack web apps!
+- 🔭 I’m currently working as a Software Engineering and Community Liaison at General Motors
+- 💻 I learned to code at Hack Reactor, an excellent coding bootcamp
+- ⚙️  I began my career as a Mechanical Engineer, after earning a BS and MS from Washington University in St. Louis
+- 👨‍🎨 I’m an experienced front-end developer, with both Angular and React experience
+- 🌱 I am currently working on a few personal projects and trying to learn the fundamentals of CS, via https://teachyourselfcs.com/
 - 📫 How to reach me:
      - email: dylanreid7@gmail.com
      - linkedin: https://www.linkedin.com/in/dylan-reid/
@@ -29,6 +32,7 @@ Technologies
       <th>Front End</th>
       <td>
         <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+        <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
         <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
         <img alt="Material-UI" src="https://img.shields.io/badge/-Material--UI-%230081CB?&style=for-the-badge&logo=material-ui&logoColor=white" />
         <img alt="jQuery" src="https://img.shields.io/badge/jquery%20-%23323330.svg?&style=for-the-badge&logo=jquery&logoColor=%0769AD">
