@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working as a Software Engineering and Community Liaison at General Motors
+- 🔭 I’m currently working as a Software Engineer and Community Liaison at General Motors
 - 💻 I learned to code at Hack Reactor, an excellent coding bootcamp
 - ⚙️  I began my career as a Mechanical Engineer, after earning a BS and MS from Washington University in St. Louis
 - 👨‍🎨 I’m an experienced front-end developer, with both Angular and React experience
-- 🌱 I am currently working on a few personal projects and trying to learn the fundamentals of CS, via https://teachyourselfcs.com/
+- 🌱 I am currently working on a few personal projects and learning the fundamentals of CS, via https://teachyourselfcs.com/
 - 📫 How to reach me:
      - email: dylanreid7@gmail.com
      - linkedin: https://www.linkedin.com/in/dylan-reid/
-- ⚡ Fun fact: I am a semi-professional racquetball player and created a podcast about the sport: https://anchor.fm/racauetballshow 😄
+- ⚡ Fun fact: I used to be a professional racquetball player and created a podcast about the sport: https://anchor.fm/racauetballshow 😄
 
 Technologies
 <table>
