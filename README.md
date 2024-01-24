@@ -69,6 +69,3 @@ Technologies
     </tr>
   </tbody>
 </table>
-
-
-[![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylanreid7&theme=solarized-light&show_icons=true)](https://github.com/dylanreid7/github-readme-stats)
